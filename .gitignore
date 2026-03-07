@@ -1,0 +1,75 @@
+# Build directories
+build/
+Build/
+cmake-build-*/
+out/
+dist/
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+.vs/
+*.vcxproj.user
+*.ncb
+*.vcxproj.filters
+
+# Compiled output
+*.o
+*.obj
+*.exe
+*.out
+*.app
+*.lib
+*.a
+*.so
+*.dylib
+
+# CMake files
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+*.cmake
+
+# Temporary files
+*.tmp
+*.bak
+*.log
+*.stackdump
+
+# OS files
+Thumbs.db
+.Directory
+
+# Windows specific
+*.pdb
+*.dll
+*.exp
+*.ilk
+
+# Debug symbols
+*.dSYM/
+*.su
+*.gch
+
+# Backup files
+*.bak
+*.bak.*
+*.orig
+
+# Test files
+*.tlog
+test_output.txt
+
+# Any local configuration
+local_config.*
+config.local
+
+# Python cache (if used for scripting)
+__pycache__/
+*.py[cod]
+*$py.class
