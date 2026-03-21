@@ -492,4 +492,4 @@ For issues and questions, please open an issue on the GitHub repository.
 
 **Version**: 2.0  
 **Last Updated**: March 2026  
-**Status**: Active Development
+**Status**: Active Development (Paused)
